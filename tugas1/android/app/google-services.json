@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "502870601774",
+    "project_id": "tugas1-mobile-teori",
+    "storage_bucket": "tugas1-mobile-teori.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502870601774:android:db7add4b622ced35c92fbf",
+        "android_client_info": {
+          "package_name": "com.example.tugas1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp1DgHTWgQ642jQNHsdgFVeLDz5nJ44rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
